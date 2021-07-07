@@ -1,0 +1,4 @@
+pandas
+spaCy
+en_core_web_sm
+Matcher
